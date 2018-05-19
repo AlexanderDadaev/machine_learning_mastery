@@ -5,9 +5,7 @@ Created on Tue Mar 27 15:33:28 2018
 @author: atdadaev
 """
 
-#https://github.com/redwanhuq/pokemon_analysis/blob/master/exploratory_analysis.ipynb
-
-# Load the required libraries
+# Load libraries
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
