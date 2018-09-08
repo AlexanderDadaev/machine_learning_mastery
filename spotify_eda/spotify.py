@@ -29,7 +29,7 @@ from scipy import misc
 #Predict target using the trained classifier
 
 #import the spotify music dataset; the aim is to predict whether the user likes the song or not
-data = pd.read_csv('C:/Users/Usman/Documents/UsmanDocs/MyWork/MachineLearning/Spotify EDA/data.csv')
+data = pd.read_csv('***/Spotify EDA/data.csv')
 type(data)
 data.describe()
 data.head()
