@@ -15,7 +15,7 @@ from scipy import stats
 #%config InlineBackend.figure_format = 'retina'
 
 # Load the dataset into a DataFrame
-df = pd.read_csv('C:/Users/Usman/Documents/UsmanDocs/Education/MachineLearning/University of California Irvine/POKEMON/POKEMON.csv')
+df = pd.read_csv('C:/*/Education/MachineLearning/University of California Irvine/POKEMON/POKEMON.csv')
 
 # Show the first five rows
 print(df.head())
